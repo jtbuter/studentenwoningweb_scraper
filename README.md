@@ -6,3 +6,5 @@ This project was written in Python 3.7.6. It makes use of the following librarie
 - beautifulsoup4 4.8.2
 - selenium 3.141.0
 - PyVirtualDisplay 0.2.5
+- requests 2.22.0
+- geopy 1.20.0
