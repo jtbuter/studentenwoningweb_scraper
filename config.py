@@ -5,3 +5,4 @@ sender = "EMAIL_ADDRESS"
 port = 0 
 host = "YOUR_HOST"
 radius = 5
+mailing = False
